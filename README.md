@@ -28,7 +28,7 @@
 <br/>
 
 <!-- ====================================================== -->
-<!--                      ABOUT ME                          -->
+<!--                       ABOUT ME                         -->
 <!-- ====================================================== -->
 
 ## 01 / A little about me
@@ -41,7 +41,8 @@ class Pranav:
 
     interests = [
         "Data Analysis & Exploration",
-        "Data Preprocessing & Feature Engineering",
+        "Data Preprocessing",
+        "Feature Engineering",
         "Applied Machine Learning",
         "Information Retrieval",
         "Generative AI",
@@ -54,10 +55,10 @@ class Pranav:
         "User Preference Modelling",
     ]
 
-    currently_exploring = [
+    currently_learning = [
         "Python & Data Structures",
-        "Machine Learning",
-        "Generative AI & AI Agents",
+        "Applied Machine Learning",
+        "Generative AI",
     ]
 ```
 
@@ -71,42 +72,57 @@ class Pranav:
 <br/>
 
 <!-- ====================================================== -->
-<!--                   AREAS OF INTEREST                    -->
+<!--                    AREAS OF INTEREST                    -->
 <!-- ====================================================== -->
 
 ## 02 / Things that keep me curious
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>📊</h3>
-        <b>Data & Analytics</b>
-        <br/><br/>
-        <sub>Exploratory Data Analysis · Data Cleaning · Preprocessing · Visualization · Feature Engineering</sub>
-      </td>
-      <td align="center" width="33%">
-        <h3>🤖</h3>
-        <b>AI & Machine Learning</b>
-        <br/><br/>
-        <sub>Predictive Modelling · Model Evaluation · Information Retrieval · Generative AI</sub>
-      </td>
-      <td align="center" width="33%">
-        <h3>🎧</h3>
-        <b>Music Intelligence</b>
-        <br/><br/>
-        <sub>Music Information Retrieval · Recommendation Systems · Audio Features · Taste Modelling</sub>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h2>📊</h2>
+      <b>Data & Analytics</b>
+      <br/><br/>
+      <sub>
+        Exploratory Data Analysis<br/>
+        Data Cleaning & Preprocessing<br/>
+        Feature Engineering<br/>
+        Data Visualization
+      </sub>
+    </td>
+    <td align="center" width="33%">
+      <h2>🤖</h2>
+      <b>AI & Machine Learning</b>
+      <br/><br/>
+      <sub>
+        Predictive Modelling<br/>
+        Model Evaluation<br/>
+        Information Retrieval<br/>
+        Generative AI
+      </sub>
+    </td>
+    <td align="center" width="33%">
+      <h2>🎧</h2>
+      <b>Music Intelligence</b>
+      <br/><br/>
+      <sub>
+        Music Information Retrieval<br/>
+        Recommendation Systems<br/>
+        Audio Feature Extraction<br/>
+        Taste Modelling
+      </sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br/>
 
 <!-- ====================================================== -->
-<!--                    FEATURED PROJECT                    -->
+<!--                    FEATURED PROJECT                     -->
 <!-- ====================================================== -->
 
 ## 03 / Featured project
@@ -121,20 +137,20 @@ class Pranav:
 
 A project that brings together several of my interests: data preprocessing, feature extraction, similarity search, collaborative filtering and machine learning.
 
-**Inside the project:**
+**Inside the project**
 
-| Area | What I worked on |
+| Area | Implementation |
 |:--|:--|
 | Dataset | Free Music Archive (FMA Small) |
 | Data processing | Metadata cleaning, missing-value handling and dataset alignment |
-| Audio analysis | MFCC, Chroma, Spectral Contrast and Tonnetz |
+| Audio analysis | MFCC, Chroma, Spectral Contrast, Tonnetz |
 | Feature extraction | Librosa |
 | Content-based retrieval | Cosine Similarity |
 | Collaborative filtering | Rank-50 SVD |
 | Similarity search | FAISS IndexFlatIP |
 | Recommendation approach | Hybrid filtering with cold-start fallback |
 
-**Some implementation details:**
+**Some implementation details**
 
 - Worked with 8,000 tracks across 8 genres from the FMA Small dataset.
 - Extracted 45-dimensional audio feature representations using Librosa.
@@ -158,21 +174,21 @@ A project that brings together several of my interests: data preprocessing, feat
 <br/>
 
 <!-- ====================================================== -->
-<!--                       TECH STACK                       -->
+<!--                       TECH STACK                        -->
 <!-- ====================================================== -->
 
 ## 04 / My toolbox
 
-*Technologies and tools I've worked with across data, development, machine learning and creative projects.*
+*An evolving collection of technologies and tools I've worked with across data, machine learning, development and creative projects.*
 
-### Programming Languages & Data
+### Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"/>
 </p>
 
-### Data Analysis, Visualization & Processing
+### Data Analysis, Processing & Visualization
 
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -184,12 +200,11 @@ A project that brings together several of my interests: data preprocessing, feat
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
 </p>
 
-### Machine Learning, AI & Information Retrieval
+### Machine Learning & AI
 
 <p>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Librosa-7C6EE6?style=for-the-badge" alt="Librosa"/>
   <img src="https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge" alt="FAISS"/>
 </p>
@@ -197,12 +212,9 @@ A project that brings together several of my interests: data preprocessing, feat
 ### Development & Software Tools
 
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 ### Cloud & Platforms
@@ -222,12 +234,13 @@ A project that brings together several of my interests: data preprocessing, feat
 <br/>
 
 <!-- ====================================================== -->
-<!--                   TECHNICAL INTERESTS                  -->
+<!--                  CONCEPTS & INTERESTS                   -->
 <!-- ====================================================== -->
 
 ## 05 / Concepts & interests
 
-<p align="center">
+<div align="center">
+
   <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-6C63FF?style=flat-square" alt="EDA"/>
   <img src="https://img.shields.io/badge/Data%20Preprocessing-6C63FF?style=flat-square" alt="Data preprocessing"/>
   <img src="https://img.shields.io/badge/Feature%20Engineering-6C63FF?style=flat-square" alt="Feature engineering"/>
@@ -239,47 +252,16 @@ A project that brings together several of my interests: data preprocessing, feat
   <img src="https://img.shields.io/badge/Research%20Methodology-555555?style=flat-square" alt="Research methodology"/>
   <img src="https://img.shields.io/badge/Object--Oriented%20Programming-555555?style=flat-square" alt="OOP"/>
   <img src="https://img.shields.io/badge/Prompt%20Engineering-555555?style=flat-square" alt="Prompt engineering"/>
-</p>
-
-<br/>
-
-<!-- ====================================================== -->
-<!--                    GITHUB ANALYTICS                    -->
-<!-- ====================================================== -->
-
-## 06 / GitHub activity
-
-<div align="center">
-
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=prnvoid&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true"
-       alt="GitHub statistics"/>
-
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=prnvoid&layout=compact&theme=transparent&hide_border=true&langs_count=8"
-       alt="Most used languages"/>
-
-  <br/><br/>
-
-  <img width="70%"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=prnvoid&theme=transparent&hide_border=true"
-       alt="GitHub contribution streak"/>
-
-  <br/><br/>
-
-  <img width="100%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=prnvoid&theme=github-compact&hide_border=true"
-       alt="GitHub contribution activity"/>
 
 </div>
 
 <br/>
 
 <!-- ====================================================== -->
-<!--                    MUSIC CORNER                        -->
+<!--                       MUSIC                             -->
 <!-- ====================================================== -->
 
-## 07 / Currently in rotation 🎧
+## 06 / Currently in rotation 🎧
 
 *Because there's always something playing in the background.*
 
@@ -287,21 +269,23 @@ A project that brings together several of my interests: data preprocessing, feat
 
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=e75kkznvjoyib1xqg9nl8bs95&redirect=true">
     <img
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=e75kkznvjoyib1xqg9nl8bs95&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&profanity=false&hide_border=true"
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=e75kkznvjoyib1xqg9nl8bs95&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&border_radius=10"
       width="350"
-      alt="Spotify listening activity"/>
+      alt="Spotify currently listening"/>
   </a>
 
   <br/><br/>
 
   <sub>
-    Shoegaze · Dream Pop · Electronic · Metal · Obscure records
+    One overlooked record is usually enough to send me down a three-hour rabbit hole of labels, liner notes, and adjacent releases.
   </sub>
 
-  <br/>
+  <br/><br/>
 
   <sub>
-    Always looking for something I've never heard before.
+    <a href="https://spotify-github-profile.kittinanx.com/api/login">
+      Widget not updating? Reconnect Spotify here.
+    </a>
   </sub>
 
 </div>
@@ -309,10 +293,10 @@ A project that brings together several of my interests: data preprocessing, feat
 <br/>
 
 <!-- ====================================================== -->
-<!--                      CONNECT                            -->
+<!--                       CONNECT                           -->
 <!-- ====================================================== -->
 
-## 08 / Let's connect
+## 07 / Let's connect
 
 <div align="center">
 
@@ -324,7 +308,7 @@ A project that brings together several of my interests: data preprocessing, feat
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="https://www.instagram.com/pranav.flac/">
+  <a href="https://www.instagram.com/the.lesser_known/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
@@ -332,10 +316,34 @@ A project that brings together several of my interests: data preprocessing, feat
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <br/><br/>
+</div>
+
+<br/>
+
+<!-- ====================================================== -->
+<!--                    GITHUB SNAPSHOT                      -->
+<!-- ====================================================== -->
+
+## 08 / A small GitHub snapshot
+
+<div align="center">
+
+  <img height="135"
+       src="https://github-readme-stats.vercel.app/api?username=prnvoid&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+       alt="GitHub statistics"/>
+
+  <img height="135"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=prnvoid&layout=compact&theme=transparent&hide_border=true&langs_count=6"
+       alt="Top languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
 
   <sub>
-    Made with curiosity, data, and an unreasonable number of playlists.
+    Still learning, still experimenting, always curious.
   </sub>
 
   <br/><br/>
