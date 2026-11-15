@@ -257,6 +257,7 @@ A project that brings together several of my interests: data preprocessing, feat
 
 <br/>
 
+
 <!-- ====================================================== -->
 <!--                       MUSIC                             -->
 <!-- ====================================================== -->
@@ -265,20 +266,49 @@ A project that brings together several of my interests: data preprocessing, feat
 
 *Because there's always something playing in the background.*
 
-<div align="center">
+<table width="100%" border="0" cellpadding="12">
+  <tr>
+    <td width="45%" align="center" valign="middle">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=e75kkznvjoyib1xqg9nl8bs95&redirect=true">
+        <img
+          src="https://spotify-github-profile.kittinanx.com/api/view?uid=e75kkznvjoyib1xqg9nl8bs95&cover_image=true&theme=default&show_offline=false&background_color=3e1437&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true&bar_color=161d83"
+          width="320"
+          alt="Currently playing on Spotify"
+        />
+      </a>
+    </td>
 
-[![Spotify Now Playing](https://spotify-github-profile.kittinanx.com/api/view?uid=e75kkznvjoyib1xqg9nl8bs95&cover_image=true&theme=default&show_offline=false&background_color=3e1437&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true&bar_color=161d83)](https://spotify-github-profile.kittinanx.com/api/view?uid=e75kkznvjoyib1xqg9nl8bs95&redirect=true)
+    <td width="55%" valign="middle">
+      <h2>One track. Another rabbit hole.</h2>
 
-<br/><br/>
+      <p>
+        I'm usually drawn in by something small — an unusual guitar texture,
+        an unexpected sample, a production detail or a name buried in the credits.
+      </p>
 
-<sub>
-One overlooked record is usually enough to send me down a three-hour rabbit hole of labels, liner notes, and adjacent releases.
-</sub>
+      <p>
+        Then come the liner notes, obscure labels, adjacent releases
+        and three discographies I didn't intend to explore.
+      </p>
 
-</div>
+      <br/>
 
-<br/>
+      <p>
+        <b>THE LISTENING PROCESS</b>
+      </p>
 
+      <p>
+        A sound → a discovery → a rabbit hole → repeat.
+      </p>
+
+      <br/>
+
+      <sub>
+        Always listening. Rarely staying in the same place.
+      </sub>
+    </td>
+  </tr>
+</table>
 <!-- ====================================================== -->
 <!--                       CONNECT                           -->
 <!-- ====================================================== -->
