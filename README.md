@@ -267,26 +267,13 @@ A project that brings together several of my interests: data preprocessing, feat
 
 <div align="center">
 
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=e75kkznvjoyib1xqg9nl8bs95&redirect=true">
-    <img
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=e75kkznvjoyib1xqg9nl8bs95&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&border_radius=10"
-      width="350"
-      alt="Spotify currently listening"/>
-  </a>
+[![Spotify Now Playing](https://spotify-github-profile.kittinanx.com/api/view?uid=e75kkznvjoyib1xqg9nl8bs95&cover_image=true&theme=default&show_offline=false&background_color=3e1437&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true&bar_color=161d83)](https://spotify-github-profile.kittinanx.com/api/view?uid=e75kkznvjoyib1xqg9nl8bs95&redirect=true)
 
-  <br/><br/>
+<br/><br/>
 
-  <sub>
-    One overlooked record is usually enough to send me down a three-hour rabbit hole of labels, liner notes, and adjacent releases.
-  </sub>
-
-  <br/><br/>
-
-  <sub>
-    <a href="https://spotify-github-profile.kittinanx.com/api/login">
-      Widget not updating? Reconnect Spotify here.
-    </a>
-  </sub>
+<sub>
+One overlooked record is usually enough to send me down a three-hour rabbit hole of labels, liner notes, and adjacent releases.
+</sub>
 
 </div>
 
@@ -319,35 +306,3 @@ A project that brings together several of my interests: data preprocessing, feat
 </div>
 
 <br/>
-
-<!-- ====================================================== -->
-<!--                    GITHUB SNAPSHOT                      -->
-<!-- ====================================================== -->
-
-## 08 / A small GitHub snapshot
-
-<div align="center">
-
-  <img height="135"
-       src="https://github-readme-stats.vercel.app/api?username=prnvoid&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-       alt="GitHub statistics"/>
-
-  <img height="135"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=prnvoid&layout=compact&theme=transparent&hide_border=true&langs_count=6"
-       alt="Top languages"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <sub>
-    Still learning, still experimenting, always curious.
-  </sub>
-
-  <br/><br/>
-
-  <sub>© 2026 Pranav R Kumar</sub>
-
-</div>
