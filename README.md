@@ -31,7 +31,8 @@
 <!--                       ABOUT ME                         -->
 <!-- ====================================================== -->
 
-## 01 / A little about me
+
+## 01 / About me
 
 ```python
 class Pranav:
@@ -39,34 +40,36 @@ class Pranav:
     university = "VIT Bhopal University"
     graduation = 2027
 
-    interests = [
-        "Data Analysis & Exploration",
-        "Data Preprocessing",
+    technical_focus = [
+        "Data Analysis & Exploratory Data Analysis",
+        "Data Cleaning & Preprocessing",
         "Feature Engineering",
         "Applied Machine Learning",
+        "Model Evaluation",
         "Information Retrieval",
         "Generative AI",
         "Human-Centered AI",
     ]
 
-    special_interests = [
+    areas_of_application = [
         "Music Information Retrieval",
         "Recommendation Systems",
         "User Preference Modelling",
     ]
 
-    currently_learning = [
+    currently_developing = [
         "Python & Data Structures",
         "Applied Machine Learning",
-        "Generative AI",
+        "Generative AI & AI Agents",
     ]
 ```
 
-- 📊 Interested in exploring, cleaning, transforming and interpreting data to uncover meaningful patterns.
-- 🧠 Fascinated by machine learning, information retrieval and how intelligent systems understand information.
-- 🔍 Enjoy working across the data lifecycle, from preprocessing and exploratory analysis to feature engineering and model evaluation.
-- 🎵 Particularly interested in computational music intelligence and personalized discovery.
-- 🎨 Also enjoy interface prototyping, visual communication and thoughtful design.
+- 📊 Work across data exploration, cleaning, preprocessing and transformation to prepare datasets for meaningful analysis and modelling.
+- 🔍 Apply data analysis, visualization and feature engineering techniques to identify patterns and derive actionable insights.
+- 🧠 Build an understanding of machine learning workflows, information retrieval and model evaluation, with an emphasis on practical applications.
+- 🤖 Explore generative AI, AI agents and human-centered approaches to intelligent systems.
+- 🎵 Apply these foundations to computational music intelligence, particularly recommendation systems and personalized music discovery.
+- 🎨 Complement technical work with an interest in interface prototyping and thoughtful visual design.
 - ⚡ Fun fact: I like treating playlists as behavioural datasets.
 
 <br/>
