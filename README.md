@@ -258,57 +258,15 @@ A project that brings together several of my interests: data preprocessing, feat
 <br/>
 
 
-<!-- ====================================================== -->
-<!--                       MUSIC                             -->
-<!-- ====================================================== -->
 
 ## 06 / Currently in rotation 🎧
 
 *Because there's always something playing in the background.*
 
-<table width="100%" border="0" cellpadding="12">
-  <tr>
-    <td width="45%" align="center" valign="middle">
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=e75kkznvjoyib1xqg9nl8bs95&redirect=true">
-        <img
-          src="https://spotify-github-profile.kittinanx.com/api/view?uid=e75kkznvjoyib1xqg9nl8bs95&cover_image=true&theme=default&show_offline=false&background_color=3e1437&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true&bar_color=161d83"
-          width="320"
-          alt="Currently playing on Spotify"
-        />
-      </a>
-    </td>
+| | |
+|:---:|:---|
+| <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=e75kkznvjoyib1xqg9nl8bs95&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=e75kkznvjoyib1xqg9nl8bs95&cover_image=true&theme=default&show_offline=false&background_color=3e1437&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true&bar_color=161d83" width="300" alt="Spotify Now Playing"/></a> | **One track. Another rabbit hole.**<br/><br/>I'm usually drawn in by something small — an unusual guitar texture, an unexpected sample, a production detail or a name buried in the credits.<br/><br/>Then come the liner notes, obscure labels, adjacent releases and three discographies I didn't intend to explore.<br/><br/>**THE LISTENING PROCESS**<br/><br/>A sound → a discovery → a rabbit hole → repeat.<br/><br/><sub>Always listening. Rarely staying in the same place.</sub> |
 
-    <td width="55%" valign="middle">
-      <h2>One track. Another rabbit hole.</h2>
-
-      <p>
-        I'm usually drawn in by something small — an unusual guitar texture,
-        an unexpected sample, a production detail or a name buried in the credits.
-      </p>
-
-      <p>
-        Then come the liner notes, obscure labels, adjacent releases
-        and three discographies I didn't intend to explore.
-      </p>
-
-      <br/>
-
-      <p>
-        <b>THE LISTENING PROCESS</b>
-      </p>
-
-      <p>
-        A sound → a discovery → a rabbit hole → repeat.
-      </p>
-
-      <br/>
-
-      <sub>
-        Always listening. Rarely staying in the same place.
-      </sub>
-    </td>
-  </tr>
-</table>
 <!-- ====================================================== -->
 <!--                       CONNECT                           -->
 <!-- ====================================================== -->
